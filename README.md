@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalesh____</h1>
 <h3 align="center">AIML Engineering Student</h3>
 
-- 🔭 I’m currently working on **Smart Farming**
+- 🔭 I’m currently in the learning phase
 
 - 🌱 I’m currently learning **Backend frameworks, Django**
 
