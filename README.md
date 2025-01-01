@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently in the learning phase
 
-- 🌱 I’m currently learning **Backend frameworks, Django**
+- 🌱 I’m currently learning 
 
-- 💬 Ask me about **Data Structures, AI**
+- 💬 Ask me about **Data Science & AI**
 
 - 📫 How to reach me **mahajankalesh@gmail.com**
 
