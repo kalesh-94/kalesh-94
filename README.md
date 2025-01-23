@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kalesh-patil-232873292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kalesh-patil-232873292/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/kalesh_094/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kalesh_094/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/mahajankalesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/mahajankalesh" height="30" width="40" /></a>
+<a href="[https://www.hackerearth.com/https://www.hackerrank.com/profile/mahajankalesh](https://www.hackerrank.com/dashboard)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fhackerrank%2F&psig=AOvVaw19a67oQcnUPb-DImtcwQln&ust=1737753858883000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiIp97jjIsDFQAAAAAdAAAAABAE)" alt="https://www.hackerrank.com/profile/mahajankalesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
