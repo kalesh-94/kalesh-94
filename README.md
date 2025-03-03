@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**  
 - 💬 Ask me about **Data Science & AI**  
 - 📫 How to reach me: **mahajankalesh@gmail.com**  
-- ⚡ Fun fact: **I think I am sticky-minded about anything**  
+  
 
 ---
 
