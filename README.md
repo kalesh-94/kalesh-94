@@ -4,7 +4,7 @@
 - 🔭 I’m currently in the learning phase  
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**  
 - 💬 Ask me about **Data Science & AI**  
-- 📫 How to reach me: **mahajankalesh@gmail.com**  
+- 📫 How to reach me: **kaleshpatil241@gmail.com**  
   
 
 ---
