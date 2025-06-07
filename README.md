@@ -45,6 +45,13 @@
 
 ---
 
+<!-- ✅ Dark/Light Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realsarthak/realsarthak/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/realsarthak/realsarthak/output/snake-light.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/realsarthak/realsarthak/output/snake-light.svg" />
+</picture>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalesh-94&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalesh-94&show_icons=true&locale=en" alt="GitHub Stats" /></p>
