@@ -80,7 +80,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/P/power-bi-logo-0F6EBAF9B8-seeklogo.com.png" alt="Power BI" width="40" height="40" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Ffree-vector-logos%2Fpowerbi&psig=AOvVaw2N--zFPvOEhiKY6MQnmU5e&ust=1749578852612000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCiyaL35I0DFQAAAAAdAAAAABAE"alt="Power BI" width="40" height="40" />
   </a>
 </p>
 
