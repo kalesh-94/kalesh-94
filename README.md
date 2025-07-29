@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently in the learning phase  
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**  
-- 💬 Ask me about **Data Science & AI**  
+- 💬 Ask me about **Data Science**  
 - 📫 How to reach me: **kaleshpatil241@gmail.com**  
   
 
@@ -82,6 +82,11 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://data.fsu.edu/sites/g/files/upcbnu4486/files/Power%20BI%20Icon.png"alt="Power BI" width="40" height="40" />
   </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="100" height="40" />
+</a>
+
+
 </p>
 
 ---
