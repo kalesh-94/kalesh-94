@@ -92,7 +92,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo_2021.svg" alt="Canva" width="100" height="40" />
 </a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.pngfind.com/pngs/m/12-122645_eclipse1024-eclipse-ide-icon-png-transparent-png.png" alt="Eclipse IDE" width="100" height="40" />
+  <img src="https://www.pngfind.com/pngs/m/12-122645_eclipse1024-eclipse-ide-icon-png-transparent-png.svg" alt="Eclipse IDE" width="100" height="40" />
 </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Framework" width="100" height="40" />
