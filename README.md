@@ -104,13 +104,18 @@
 
 ---
 
-<!-- ✅ Dark/Light Snake Animation -->
+<!-- ✅ Dark/Light Snake Animation with More Green Streak -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realsarthak/realsarthak/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/realsarthak/realsarthak/output/snake-light.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/realsarthak/realsarthak/output/snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalesh-94/kalesh-94/output/snake-dark.svg?palette=green" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalesh-94/kalesh-94/output/snake-light.svg?palette=green" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kalesh-94/kalesh-94/output/snake-light.svg?palette=green" />
 </picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalesh-94&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<!-- 📊 GitHub Stats - More Green & Centered -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalesh-94&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalesh-94&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalesh-94&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
+</p>
