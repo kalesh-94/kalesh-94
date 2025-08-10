@@ -104,11 +104,11 @@
 
 ---
 
-<!-- ✅ Dark/Light Snake Animation with More Green Streak -->
+<!-- ✅ Dark/Light Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalesh-94/kalesh-94/output/snake-dark.svg?palette=green" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalesh-94/kalesh-94/output/snake-light.svg?palette=green" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kalesh-94/kalesh-94/output/snake-light.svg?palette=green" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realsarthak/realsarthak/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/realsarthak/realsarthak/output/snake-light.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/realsarthak/realsarthak/output/snake-light.svg" />
 </picture>
 
 <!-- 📊 GitHub Stats - More Green & Centered -->
