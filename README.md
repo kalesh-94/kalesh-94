@@ -123,3 +123,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalesh-94&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
 </p>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=kalesh-94)
