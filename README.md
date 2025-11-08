@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalesh</h1>
-<h3 align="center">AIML Engineering Student</h3>
+<h3 align="center">AIML Engineer</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**  
 - 💬 Ask me about **Data Science & Java Development** 
