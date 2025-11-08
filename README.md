@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kalesh</h1>
 <h3 align="center">AIML Engineering Student</h3>
 
-- 🔭 I’m currently in the learning phase  
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**  
-- 💬 Ask me about **Data Science**  
+- 💬 Ask me about **Data Science & Java Development** 
 - 📫 How to reach me: **kaleshpatil241@gmail.com**  
   
 
