@@ -1,14 +1,21 @@
+<!-- 🌟 Profile Header -->
 <h1 align="center">Hi 👋, I'm Kalesh</h1>
-<h3 align="center">AIML Engineer</h3>
+<h3 align="center">🚀 AIML Engineer | Passionate about Data, Code & Innovation</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**  
-- 💬 Ask me about **Data Science & Java Development** 
-- 📫 How to reach me: **kaleshpatil241@gmail.com**  
-  
+<!-- ✨ Intro GIF -->
+<p align="center">
+  <img src="https://camo.githubusercontent.com/2a0aff4f77b2e360a60f246bd81dfffcbe5d1ad1f25f8c54a71c79eef6bd68a8/68747470733a2f2f692e6962622e636f2f623171537947642f6f75747075742d6f6e6c696e65676966746f6f6c732d312e676966" alt="Coding GIF" width="700" />
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**  
+- 💬 Ask me about **Data Science & Java Development**  
+- 📫 How to reach me: **kaleshpatil241@gmail.com**  
+
+---
+
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/kalesh-patil-232873292/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -24,9 +31,9 @@
   </a>
 </p>
 
-
 ---
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
@@ -83,12 +90,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://data.fsu.edu/sites/g/files/upcbnu4486/files/Power%20BI%20Icon.png"alt="Power BI" width="40" height="40" />
+    <img src="https://data.fsu.edu/sites/g/files/upcbnu4486/files/Power%20BI%20Icon.png" alt="Power BI" width="40" height="40" />
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="100" height="40" />
-</a>
- <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="100" height="40" />
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" />
   </a>
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
@@ -97,12 +104,9 @@
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="40" height="40" />
   </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Framework" width="100" height="40" />
-</a>
-
-
-
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Framework" width="100" height="40" />
+  </a>
 </p>
 
 ---
@@ -114,7 +118,9 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/realsarthak/realsarthak/output/snake-light.svg" />
 </picture>
 
-<!-- 📊 GitHub Stats - More Green & Centered -->
+---
+
+<!-- 📊 GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalesh-94&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 </p>
@@ -123,4 +129,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kalesh-94&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
 </p>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=kalesh-94)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalesh-94&label=Profile%20Views&color=green&style=flat" alt="Profile view counter on GitHub" />
+</p>
