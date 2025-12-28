@@ -124,10 +124,7 @@
 
 ---
 
-<!-- 📊 GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalesh-94&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalesh-94&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
