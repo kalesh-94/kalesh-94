@@ -3,7 +3,7 @@
 <h3 align="center">🚀 AIML Engineer | Passionate about Data, Code & Innovation</h3>
 
 <!-- ✨ Intro GIF -->
-<p align="center">
+<<p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV2dTdhaHM3MGo1bWpzZGtrZXp5NHkxcWI1d2RueXo1dGxydm1kYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Coding GIF" width="700" />
 </p>
 
