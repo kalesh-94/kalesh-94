@@ -3,9 +3,10 @@
 <h3 align="center">🚀 AIML Engineer | Passionate about Data, Code & Innovation</h3>
 
 <!-- ✨ Intro GIF -->
-<<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV2dTdhaHM3MGo1bWpzZGtrZXp5NHkxcWI1d2RueXo1dGxydm1kYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Coding GIF" width="700" />
+<p align="center">
+  <img src="https://camo.githubusercontent.com/2a0aff4f77b2e360a60f246bd81dfffcbe5d1ad1f25f8c54a71c79eef6bd68a8/68747470733a2f2f692e6962622e636f2f623171537947642f6f75747075742d6f6e6c696e65676966746f6f6c732d312e676966" alt="Coding GIF" width="700" />
 </p>
+
 
 ---
 
