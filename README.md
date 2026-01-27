@@ -15,6 +15,10 @@
 - 📫 How to reach me: **kaleshpatil241@gmail.com**  
 
 ---
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656934-0dd55b98-a77e-4d26-8865-9147906e0f99.gif" alt="Coding GIF" width="200" />
+</p>
+</br>
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
