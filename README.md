@@ -108,15 +108,35 @@
   <a href="https://www.docker.com/products/docker-desktop/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Canva" width="40" height="40" />
   </a>
+   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40" />
+  </a>
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40" />
   </a>
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="40" height="40" />
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Framework" width="100" height="40" />
+    <!-- Added Tech Stack -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
   </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40" />
+  </a>
+  <a href="https://www.langgraph.dev/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="LangGraph" width="40" height="40" />
+  </a>
+  <a href="https://ollama.com/" target="_blank" rel="noreferrer">
+    <img src="https://ollama.com/public/ollama.png" alt="Ollama" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" />
+  </a>
+
 </p>
 
 ---
