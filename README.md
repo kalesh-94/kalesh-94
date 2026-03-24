@@ -10,7 +10,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**  
+- 🌱 I’m currently working on **Agentic AI & Machine Learning**  
 - 💬 Ask me about **Data Science, Python Full stack & GenAI**  
 - 📫 How to reach me: **kaleshpatil241@gmail.com**  
 
