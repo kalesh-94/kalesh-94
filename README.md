@@ -11,7 +11,7 @@
 ---
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**  
-- 💬 Ask me about **Data Science & Java Development**  
+- 💬 Ask me about **Data Science, Python Full stack & GenAI**  
 - 📫 How to reach me: **kaleshpatil241@gmail.com**  
 
 ---
